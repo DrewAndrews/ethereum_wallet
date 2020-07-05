@@ -1,0 +1,7 @@
+{   "rpcUrl": "https://sokol.poa.network", 
+    "privKey": "17f06668d392b3fbf72071a745b91a022077d23d201ec6fd6799fda76cc8ed54", 
+    "gasPriceUrl": "https://gasprice.poa.network/", 
+    "defaultGasPrice": 2000000000,
+    "address": "0xADF72A6Cd2BD5966Ed515F69be36BF99Ca31137D"
+}
+   
